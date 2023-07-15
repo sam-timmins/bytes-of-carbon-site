@@ -31,3 +31,19 @@ body {
     background-color: var(--white);
 }
 
+.navbar {
+    background-color: var(--purple);
+    border-bottom: 2px solid var(--orange);
+}
+
+.navbar-toggler-item {
+    color: var(--white);
+}
+
+.hamburger {
+    color: var(--white);
+}
+
+.navbar-toggler:focus {
+    box-shadow: 0 0 0 0.25rem var(--white);
+}
