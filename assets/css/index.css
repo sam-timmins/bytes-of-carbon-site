@@ -30,3 +30,19 @@ body {
     font-weight: 400;
     background-color: var(--white);
 }
+
+
+.home {
+    margin-top: 6rem;
+    height: 20vh;
+    min-width: 80%;
+    background-color: var(--light-grey);
+    overflow: hidden;
+}
+
+#hero-image {
+    background: url(/assets/images/long-logo.png) no-repeat center center;
+    background-size: cover;
+    height: 70%;
+    width: auto;
+}
