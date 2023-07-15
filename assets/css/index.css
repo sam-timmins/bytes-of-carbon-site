@@ -38,6 +38,7 @@ body {
     min-width: 80%;
     background-color: var(--light-grey);
     overflow: hidden;
+    border-bottom: 2px solid var(--orange);
 }
 
 #hero-image {
@@ -45,3 +46,12 @@ body {
     width: auto;
 }
 
+.about {
+    height: 60vh;
+}
+
+.about-left-column {
+    background-color: var(--purple);
+    height: 100%;
+    border-right: 2px solid var(--orange);
+}
