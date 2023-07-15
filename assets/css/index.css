@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@300&display=swap');
+
+/* 
+font-family: 'Unica One', cursive; 
+*/
+
+:root {
+    --purple: #574996;
+    --orange: #F3A709;
+    --white: #F4F4F4;
+    --light-grey: #B3AB9B;
+    --dark-grey:#949495;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 1.6rem;
+    height: 100vh;
+    font-family: 'MuseoModerno', cursive;
+    font-weight: 400;
+    background-color: var(--white);
+}
+
