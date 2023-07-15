@@ -1,0 +1,43 @@
+/* Text sizes */
+
+.text-xs {
+    font-size: 1.5rem;
+}
+
+.text-sm {
+    font-size: 2rem;
+}
+
+.text-md {
+    font-size: 2.5rem;
+}
+
+.text-lg {
+    font-size: 4rem;
+}
+
+.text-xl {
+    font-size: 5rem;
+}
+
+/* Text Colours */
+
+.text-orange {
+    color: var(--orange);
+}
+
+.text-purple {
+    color: var(--purple);
+}
+
+.text-white {
+    color: var(--white);
+}
+
+.text-light-grey {
+    color: var(--light-grey);
+}
+
+.text-dark-grey {
+    color: var(--dark-grey);
+}
