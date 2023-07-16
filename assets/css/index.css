@@ -37,6 +37,10 @@ body {
     margin: 0 auto 2rem auto;
 }
 
+.background-purple {
+    background-color: var(--purple);
+}
+
 .about {
     height: auto;
     width: auto;
@@ -51,4 +55,10 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
+}
+
+.text-container {
+    border-radius: 2rem;
+    box-shadow: 0 0 5px 0 var(--orange);
+    border: 2px solid var(--orange);
 }
