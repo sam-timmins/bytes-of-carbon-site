@@ -40,7 +40,8 @@ body {
 .about {
     height: auto;
     width: auto;
-    margin-top: 8rem;
+    margin-top: 3rem;
+    display: inline;
 }
 
 .small-logo {
