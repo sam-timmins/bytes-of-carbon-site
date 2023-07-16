@@ -17,7 +17,7 @@
 }
 
 .navbar-brand {
-    background-image: url("/assets/images/logo4x4.png");
+    background-image: url("../images/logo4x4.png");
     height: 10rem;
     width: 10rem;
     background-position: center;
